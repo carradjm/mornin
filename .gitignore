@@ -50,4 +50,4 @@ build-iPhoneSimulator/
 .rvmrc
 
 # Ignore application configuration
-/config/application.yml
+./config/application.yml
